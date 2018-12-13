@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- name 为Kpi, value 为kpi对应的sql-->
+<configuration>
+
+	<property>
+		<value>writer_new_user</value>
+		<name>com.mobile.parser.mr.nu.NewUserWriter</name>
+	</property>
+
+</configuration>
+
